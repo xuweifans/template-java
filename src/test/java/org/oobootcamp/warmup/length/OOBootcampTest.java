@@ -11,5 +11,4 @@ public class OOBootcampTest {
         OOBootcamp ooBootcamp = new OOBootcamp("Hello, Welcome to OOBootcamp");
         assertThat(ooBootcamp.message()).isEqualTo("Hello, Welcome to OOBootcamp");
     }
-
 }
